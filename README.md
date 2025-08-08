@@ -1,5 +1,3 @@
----
-
 # 📒 Address Book Management System (C Project)
 
 A simple, menu-driven **Address Book Management System** developed in C, designed to manage contact details such as name, phone number, and email. It supports functionalities like creating, listing, editing, searching, deleting, and saving contacts. All contacts are stored in a file (`contact.txt`) for persistent storage.
